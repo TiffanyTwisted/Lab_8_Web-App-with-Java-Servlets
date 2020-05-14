@@ -1,0 +1,57 @@
+Using CATALINA_BASE:   "C:\Users\Ä‡‚Ò¨\.IntelliJIdea2018.3\system\tomcat\Unnamed_Lab8"
+Using CATALINA_HOME:   "C:\èÆ´®≠†\apache-tomcat-9.0.34-windows-x64"
+Using CATALINA_TMPDIR: "C:\èÆ´®≠†\apache-tomcat-9.0.34-windows-x64\temp"
+Using JRE_HOME:        "c:\Program Files\Java\jre1.8.0_151\"
+Using CLASSPATH:       "C:\èÆ´®≠†\apache-tomcat-9.0.34-windows-x64\bin\bootstrap.jar;C:\èÆ´®≠†\apache-tomcat-9.0.34-windows-x64\bin\tomcat-juli.jar"
+14-May-2020 22:48:15.992 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [C:\√è√Æ√´√®√≠√†\apache-tomcat-9.0.34-windows-x64\lib], exists: [false], isDirectory: [false], canRead: [false]
+14-May-2020 22:48:16.003 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [C:\√è√Æ√´√®√≠√†\apache-tomcat-9.0.34-windows-x64\lib], exists: [false], isDirectory: [false], canRead: [false]
+14-May-2020 22:48:17.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.34
+14-May-2020 22:48:17.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2020 12:02:52 UTC
+14-May-2020 22:48:17.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.34.0
+14-May-2020 22:48:17.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-May-2020 22:48:17.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-May-2020 22:48:17.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-May-2020 22:48:17.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             c:\Program Files\Java\jre1.8.0_151
+14-May-2020 22:48:17.489 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_151-b12
+14-May-2020 22:48:17.489 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-May-2020 22:48:17.489 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\–ê—Ä—Ç—ë–º\.IntelliJIdea2018.3\system\tomcat\Unnamed_Lab8
+14-May-2020 22:48:17.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\–ü–æ–ª–∏–Ω–∞\apache-tomcat-9.0.34-windows-x64
+14-May-2020 22:48:17.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\–ê—Ä—Ç—ë–º\.IntelliJIdea2018.3\system\tomcat\Unnamed_Lab8\conf\logging.properties
+14-May-2020 22:48:17.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-May-2020 22:48:17.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+14-May-2020 22:48:17.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+14-May-2020 22:48:17.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+14-May-2020 22:48:17.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+14-May-2020 22:48:17.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+14-May-2020 22:48:17.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-May-2020 22:48:17.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-May-2020 22:48:17.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+14-May-2020 22:48:17.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\–ê—Ä—Ç—ë–º\.IntelliJIdea2018.3\system\tomcat\Unnamed_Lab8
+14-May-2020 22:48:17.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\–ü–æ–ª–∏–Ω–∞\apache-tomcat-9.0.34-windows-x64
+14-May-2020 22:48:17.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\–ü–æ–ª–∏–Ω–∞\apache-tomcat-9.0.34-windows-x64\temp
+14-May-2020 22:48:17.495 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14-May-2020 22:48:17.495 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14-May-2020 22:48:17.496 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14-May-2020 22:48:17.507 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14-May-2020 22:48:18.318 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-May-2020 22:48:18.410 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1¬†708] milliseconds
+14-May-2020 22:48:18.519 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-May-2020 22:48:18.520 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.34]
+14-May-2020 22:48:18.566 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-May-2020 22:48:18.601 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [189] milliseconds
+Connected to server
+14-May-2020 22:48:28.593 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory –£—Å—Ç–∞–Ω–æ–≤–∫–∞ –≤–µ–± –ø—Ä–∏–ª–æ–∂–µ–Ω–∏—è –≤ –ø–∞–ø–∫—É [C:\–ü–æ–ª–∏–Ω–∞\apache-tomcat-9.0.34-windows-x64\webapps\manager]
+14-May-2020 22:48:28.979 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\–ü–æ–ª–∏–Ω–∞\apache-tomcat-9.0.34-windows-x64\webapps\manager] has finished in [386] ms
+Using CATALINA_BASE:   "C:\Users\Ä‡‚Ò¨\.IntelliJIdea2018.3\system\tomcat\Unnamed_Lab8"
+Using CATALINA_HOME:   "C:\èÆ´®≠†\apache-tomcat-9.0.34-windows-x64"
+Using CATALINA_TMPDIR: "C:\èÆ´®≠†\apache-tomcat-9.0.34-windows-x64\temp"
+Using JRE_HOME:        "c:\Program Files\Java\jre1.8.0_151\"
+Using CLASSPATH:       "C:\èÆ´®≠†\apache-tomcat-9.0.34-windows-x64\bin\bootstrap.jar;C:\èÆ´®≠†\apache-tomcat-9.0.34-windows-x64\bin\tomcat-juli.jar"
+14-May-2020 22:49:39.694 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [C:\√è√Æ√´√®√≠√†\apache-tomcat-9.0.34-windows-x64\lib], exists: [false], isDirectory: [false], canRead: [false]
+14-May-2020 22:49:39.705 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [C:\√è√Æ√´√®√≠√†\apache-tomcat-9.0.34-windows-x64\lib], exists: [false], isDirectory: [false], canRead: [false]
+14-May-2020 22:49:40.206 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+14-May-2020 22:49:40.208 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-May-2020 22:49:40.668 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-May-2020 22:49:40.737 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-May-2020 22:49:40.745 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+Disconnected from server
